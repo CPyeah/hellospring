@@ -9,6 +9,7 @@
 	<configs>
 		<config>src/main/resources/spring-annotation.xml</config>
 		<config>src/main/resources/Spring-AOP.xml</config>
+		<config>src/main/resources/spring-jdbc.xml</config>
 	</configs>
 	<autoconfigs>
 	</autoconfigs>
